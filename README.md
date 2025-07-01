@@ -19,6 +19,7 @@ This project demonstrates how to build a complete CRUD web app with a responsive
 
   Frontend: HTML, Thymeleaf, Bootstrap
 
+
 # 📂 Project Structure
 ```css
 src/main/java/com/yourapp
@@ -59,6 +60,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
  Clone the repository:
 
 git clone https://github.com/Baseer-S/TODO-app.git
+
 cd TODO-app
 
 Build the project with Maven:
@@ -80,9 +82,10 @@ Open your browser and go to:
 🤝 Contributing
 
 Pull requests are welcome! If you’d like to suggest improvements, feel free to fork the repo and submit a PR.
-📜 License
 
+* 📜 License
 This project is for learning purposes.
+
 📧 Contact: [linkedIn](https://www.linkedin.com/in/baseer-s-419713285/).
 
 If you have any suggestions or feedback, connect with me on LinkedIn.
